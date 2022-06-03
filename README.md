@@ -6,6 +6,6 @@
 
 First project of PHP/Symfony journey to learn web development with OpenClassrooms
 
-**Slides, InDesign**
+[![Preview site](https://img.shields.io/badge/Preview%20site--7d5ce9?style=for-the-badge&logo=AdobeInDesign&logoColor=white)](https://florianjourde.github.io/OpenClassrooms-1-Define-learning-strategy/)
 
-[Preview-site](https://openclassrooms.com/fr/)
+**Slides, InDesign**
